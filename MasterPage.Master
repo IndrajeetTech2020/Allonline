@@ -1,0 +1,268 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="AllOnlineProj.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="Top software company in BHUBANESWAR,Top software company in BBSR,BEST software company in BHUBANESWAR,TOP 10 SOFTWARE COMPANY IN BHUBANESWAR,Allonline software company,allonline softtech,best software company in patia,best company,best software company in patia,Best software company in india,best software in khorda, top 10 indias company , best consultancy services in india, best consultancy in odisha,top 100 software company,top 100 software company among world,best services company in odisha,best software services in patia" />
+    <meta charset="utf-8" />
+    <title>AllOnline | Home </title>
+    <meta name="description" content="Responsive HTML5 Template" />
+    <meta name="author" content="webthemez" />
+
+    <!-- Mobile Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico" />
+
+  	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" /> 
+		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="css/animations.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="bootstrap/bs/theme.css" rel="stylesheet" />
+    <script type="text/javascript" src="plugins/jquery.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="plugins/modernizr.js"></script>
+    <script type="text/javascript" src="plugins/isotope/isotope.pkgd.min.js"></script>
+    <script type="text/javascript" src="plugins/jquery.backstretch.min.js"></script>
+    <script type="text/javascript" src="plugins/jquery.appear.js"></script>
+
+
+    <!-- Custom Scripts -->
+    <script type="text/javascript" src="js/custom.js"></script>
+    <link href="css/MasterCSS.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="no-trans">
+  <div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+   <header class="header fixed clearfix navbar navbar-fixed-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4" style="margin-left: -160px;">
+                    <!-- header-left start -->
+                    <div class="header-left">
+
+                        <!-- logo -->
+                        <div class="logo smooth-scroll">
+                            <a href="#banner">
+                                <img id="logo" src="images/logo2.png" height="80px" width="80px" alt="logo2.png" /></a>
+                        </div>
+
+                        <!-- name-and-slogan -->
+                        <div class="logo-section smooth-scroll">
+                            <div class="brand"><a href="#banner">AllOnline</a></div>
+                        </div>
+
+                    </div>
+                    <!-- header-left end -->
+                </div>
+                <div class="col-md-8">
+
+                    <!-- header-right start -->
+                    <div class="header-right">
+
+                        <!-- main-navigation start -->
+                        <div class="main-navigation animated">
+
+                            <!-- navbar start -->
+                            <nav class="navbar navbar-default" role="navigation">
+                                <div class="container-fluid">
+
+                                    <!-- Toggle get grouped for better mobile display -->
+                                    <div class="navbar-header">
+                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                                            <span class="sr-only">Toggle navigation</span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+
+                                    <!-- Collect the nav links, forms, and other content for toggling -->
+                                    <div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
+                                        <ul class="nav navbar-nav navbar-right">
+                                            <li class="active"><a href="Home.aspx">Home</a></li>
+                                            <li><a href="Home.aspx#about">About</a></li>
+                                            <li><a href="Home.aspx#services">Services</a></li>
+                                            <li class="dropdown">
+                                                <a data-toggle="dropdown" href="#">Portfolio<span class="caret"></span></a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="CaseStudies.aspx">Case Studies</a></li>
+                                                    <li><a href="Project.aspx">Project</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="Home.aspx#careers">Careers</a></li>
+                                            <li><a href="ContactUs.aspx">Contact</a></li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                            </nav>
+                            <!-- navbar end -->
+
+                        </div>
+                        <!-- main-navigation end -->
+
+                    </div>
+                    <!-- header-right end -->
+
+                </div>
+            </div>
+        </div>
+
+
+    </header>
+    <%--<header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+         <!-- logo -->
+                        <div class="logo smooth-scroll">
+                            <a href="#banner">
+                                <img id="logo" src="images/logo2.png" height="80px" width="80px" alt="logo2.png" /></a>
+                        </div>
+      <a href="./" class="navbar-brand">AllOnline</a>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active">
+          <a href="Home.aspx">Home</a>
+        </li>
+          <li>
+          <a href="Home.aspx#about">About</a>
+        </li>
+          <li>
+          <a href="Home.aspx#services">Services</a>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="CaseStudies.aspx">Case Studies</a></li>
+            <li><a href="Project.aspx">Project</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="Home.aspx#careers">Careers</a>
+        </li>
+        <li>
+          <a href="ContactUs.aspx">Contact</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>--%>
+
+    <asp:ContentPlaceHolder ID="BodyContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <!-- footer start -->
+
+
+    <footer id="footer">
+
+        <!-- .footer start -->
+        <div class="footer section">
+            <div class="container">
+                <h1 class="title text-center" id="contact">Contact Us</h1>
+                <div class="space"></div>
+                <div class="row">
+
+                    <div class="col-sm-6">
+                        <div class="footer-content">
+                            <form id="footerform" runat="server">
+                            <div class="form-group has-feedback">
+                                <label class="sr-only" for="name2">Name</label>
+                                <asp:TextBox ID="name_txt" runat="server" CssClass="form-control"></asp:TextBox>
+                                <%--<asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Name Can't Be Blank" ControlToValidate="name_txt" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
+    <%-- <input type="text" runat="server" class="form-control" id="name2" placeholder="Name" name="name2" required="required" />
+                                <i class="fa fa-user form-control-feedback"></i>
+                            </div>
+                            <div class="form-group has-feedback">
+                                <label class="sr-only" for="email2">Email address</label>
+                                <asp:TextBox ID="email_txt" CssClass="form-control" runat="server"></asp:TextBox>
+                                <%--<asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ErrorMessage="Email Must Be Required!" ForeColor="Red" ControlToValidate="email_txt"></asp:RequiredFieldValidator><asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ErrorMessage="Please enter correct Email!!" ControlToValidate="email_txt" ForeColor="Red" SetFocusOnError="True" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>--%>
+    <%-- <input type="email" runat="server" class="form-control" id="email2" placeholder="Enter email" name="email2" required="required" />
+                                <i class="fa fa-envelope form-control-feedback"></i>
+                            </div>
+                            <div class="form-group has-feedback">
+                                <label class="sr-only" for="message2">Message</label>
+                                <asp:TextBox ID="message_txt" CssClass="form-control" Style="height: 153px;" TextMode="MultiLine" MaxLength="500" runat="server"></asp:TextBox>
+                                <%--<asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Details Must Be Required!" ControlToValidate="message_txt" ForeColor="Red"></asp:RequiredFieldValidator>--%>
+    <%--   <textarea class="form-control"  runat="server" rows="8" id="message2" placeholder="Message" name="message2" required="required"></textarea>
+                                <i class="fa fa-pencil form-control-feedback"></i>
+                            </div>
+                                </form> 
+
+                            <asp:Button ID="btnSend" runat="server" Text="Send" CssClass="btn btn-default" OnClick="btnSend_Click" />
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="footer-content">
+
+
+                            <div class="widget-content">
+
+                                <p>AllOnline is a very professional and expanding company. If you come here it feels like you are a part of the family. They believe in “Work Hard, Party Hard” In short Allonline Rocks! </p>
+                                <br />
+
+                                <p class="contacts"><i class="fa fa-map-marker"></i>Patia ,Bhubaneswar-24,Odisha,India. </p>
+
+                                <p class="contacts"><i class="fa fa-phone"></i>202-314-1583</p>
+
+                                <p class="contacts"><i class="fa fa-envelope"></i>info@allonline.co.in</p>
+
+
+
+                            </div>
+                            </aside>
+								<ul class="social-links">
+                                    <li class="facebook"><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="twitter"><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="googleplus"><a target="_blank" href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    <li class="skype"><a target="_blank" href="#"><i class="fa fa-skype"></i></a></li>
+                                    <li class="linkedin"><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li class="youtube"><a target="_blank" href="#"><i class="fa fa-youtube"></i></a></li>
+                                </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>--%>
+    <!-- .footer end -->
+
+    <!-- .subfooter start -->
+    <div class="subfooter">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p id="#contact" class="text-center">Copyright © 2021 Developed by <a target="_blank" href="#">allonline.co.in</a>.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- .subfooter end -->
+
+     </footer>
+    <!-- footer end -->
+       <!-- JavaScript --> 
+	<script type="text/javascript" src="plugins/jquery.min.js"></script>
+	<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="plugins/modernizr.js"></script>
+	<script type="text/javascript" src="plugins/isotope/isotope.pkgd.min.js"></script>
+	<script type="text/javascript" src="plugins/jquery.backstretch.min.js"></script>
+	<script type="text/javascript" src="plugins/jquery.appear.js"></script>
+
+	<!-- Custom Scripts -->
+	<script type="text/javascript" src="js/custom.js"></script>
+</body>
+</html>

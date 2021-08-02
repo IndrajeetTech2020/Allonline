@@ -1,0 +1,10 @@
+﻿.navbar-nav > li > .dropdown-menu {
+            margin-top: 0;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+
+        ul.nav.navbar-nav.navbar-right {
+            margin-right: -350px;
+        }
+       

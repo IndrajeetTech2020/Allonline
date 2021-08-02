@@ -1,0 +1,22 @@
+﻿.breadcrumbs {
+            background: #34495e;
+            color: #fff;
+            padding: 30px 0;
+            margin-bottom: 40px;
+            padding-top: 60px;
+            background-color: deepskyblue;
+            height: 145px;
+        }
+
+        .breadcrumb {
+            margin-bottom: 0;
+            background: none;
+            margin-right: -330px;
+        }
+
+        #footer {
+            padding-top: 40px;
+        }
+        .Form-group.text-center {
+    margin-bottom: 20px;
+}

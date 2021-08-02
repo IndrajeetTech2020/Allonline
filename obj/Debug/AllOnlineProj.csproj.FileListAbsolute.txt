@@ -1,0 +1,80 @@
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\csc.exe
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Collections.Immutable.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Reflection.Metadata.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\vbc.exe
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe.config
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll.config
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.pdb
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.csprojResolveAssemblyReference.cache
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.dll
+D:\Indrajeet\AllOnline\Development\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.pdb
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\csc.exe
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Collections.Immutable.dll
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Reflection.Metadata.dll
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\vbc.exe
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe
+D:\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe.config
+D:\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll.config
+D:\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll
+D:\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.pdb
+D:\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.csprojResolveAssemblyReference.cache
+D:\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.dll
+D:\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.pdb
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\csc.exe
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Collections.Immutable.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Reflection.Metadata.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\vbc.exe
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe.config
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll.config
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.pdb
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.csprojResolveAssemblyReference.cache
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.dll
+D:\AllOnline Project\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.pdb
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\csc.exe
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Collections.Immutable.dll
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\System.Reflection.Metadata.dll
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\vbc.exe
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe
+F:\AllOnlineProj\AllOnlineProj\bin\roslyn\VBCSCompiler.exe.config
+F:\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll.config
+F:\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.dll
+F:\AllOnlineProj\AllOnlineProj\bin\AllOnlineProj.pdb
+F:\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AllOnlineProj\AllOnlineProj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.csprojResolveAssemblyReference.cache
+F:\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.dll
+F:\AllOnlineProj\AllOnlineProj\obj\Debug\AllOnlineProj.pdb

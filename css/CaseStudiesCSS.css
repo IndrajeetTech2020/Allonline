@@ -1,0 +1,166 @@
+﻿@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+.pricing-table{
+  background-color: #fff;
+	box-shadow: 0px 0px 10px rgb(0 0 0 / 21%);
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pricing-table .block-heading {
+  padding-top: 50px;
+  margin-bottom: 40px;
+  text-align: center; 
+}
+.pricing-table .heading h3 {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.pricing-table .block-heading h2 {
+  color: #ff4d4d;
+  font-family: bold;
+	font-weight: 600;
+}
+
+
+
+.pricing-table .heading {
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
+}
+
+.pricing-table .item {
+      background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 21%);
+    border-top: 4px solid #ff4d4d;
+    padding: 30px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+}
+
+.pricing-table .col-md-5:not(:last-child) .item {
+  margin-bottom: 30px; 
+}
+
+.pricing-table .item button {
+  font-weight: 600; 
+}
+
+.pricing-table .ribbon {
+  width: 160px;
+  height: 32px;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0px 2px 3px rgba(136, 136, 136, 0.25);
+  background: #4dbe3b;
+  transform: rotate(45deg);
+  position: absolute;
+  right: -42px;
+  top: 20px;
+  padding-top: 7px; 
+}
+
+.pricing-table .item h5 {
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    opacity: 0.7;
+    background-color: #f00;
+    color: #fff;
+    padding: 5px;
+		margin-bottom: 25px;
+}
+
+.pricing-table .features .feature {
+  font-weight: 600; }
+
+
+.pricing-table .price h4 {
+  margin: 15px 0;
+  font-size: 20px;
+  text-align: center;
+  color: #2288f9; 
+}
+
+.pricing-table .buy-now button {
+  text-align: center;
+  margin: auto;
+  font-weight: 600;
+  padding: 9px 0; 
+}
+.combined-social {
+    height: 940px;
+}
+.features ul {
+		list-style: none;
+    position: relative;
+    padding-left: 10px;
+}
+.features ul h6{
+	font-weight: 900;
+  text-align: center;
+}
+.combined-ppc {
+    height: 770px;
+}
+.features ul li {
+	padding-left: 10px;
+}
+.features ul li:before {
+	display: none;
+}
+.features ul li:after {
+    content: "\f00c ";
+    position: absolute;
+    font-family: 'FontAwesome';
+    left: -10px;
+    color: #ff4d4d;
+}
+.combined-search {
+    height: 1120px;
+}
+
+.buy-btn {
+	color: #ff0000;
+    background-color: transparent;
+    background-image: none;
+    border-color: #ff0000;
+}
+.ppc-activities {
+    height: 223px;
+}
+.ppc-compaign {
+    height: 212px;
+}
+.ppc-optimization {
+    height: 140px;
+}
+.social-channels {
+    height: 135px;
+}
+.social-set {
+    height: 440px;
+}
+.social-group {
+    height: 144px;
+}
+.seo-on {
+    height: 90px;
+}
+.seo-technical {
+    height: 135px;
+}
+.seo-link {
+    height: 230px;
+}
+.seo-local {
+    height: 110px;
+}
+.customer.relative.w-240.h-240.m-20.p-20 {
+    width: 200px;
+    height: 200px;
+}

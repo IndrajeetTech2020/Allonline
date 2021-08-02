@@ -1,0 +1,48 @@
+﻿ .breadcrumbs {
+            background: #34495e;
+            color: #fff;
+            padding: 30px 0;
+            margin-bottom: 40px;
+            padding-top:60px;
+            background-color:deepskyblue;
+            height: 145px;
+        }
+      
+        
+        .breadcrumb {
+            margin-bottom: 0;
+            background: none;
+            margin-right: -330px;
+        }
+        .col-lg-4.col-sm-4.text-center.wow.fadeInLeft.animated {
+    width: 500px;
+    margin-left: -160px;
+}
+        .panel-group .panel {
+    width: 960px;
+}
+         div#accordion {
+    width: 960px;
+}
+         a.accordion-toggle {
+    font-size: 20px;
+}
+      #header{
+          color:white; 
+          font-size:26px;
+          font-weight:bold;
+      }
+      .header1{
+          color:#DB0A61; 
+          font-size:18px;
+      }
+      #header2{
+          color:white; 
+          font-size:18px;
+      }
+      .col-lg-4.col-sm-4 {
+    margin-left: -160px;
+}
+      .col-lg-8.col-sm-8 {
+    padding-top: 16px;
+}
